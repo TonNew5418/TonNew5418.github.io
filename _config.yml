@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Letian Jiang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Letian Jiang"
@@ -35,6 +35,7 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=p3B-HYQAAAAJ"
+  inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0006-4372-406X"
   semantic         : # URL
